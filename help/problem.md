@@ -1,27 +1,40 @@
 При установке pelco_d_rotator могут возникнуть следующие проблемы:
+
 1. Ошибка при попытке подключить библиотеку командоу pip install -r requirements.txt
+
 	Вариант исправления ошибки:
+	
 	1. # Установка виртуальной среды
+	```
 	python3 -m venv myenv
-
-	# Переход в виртуальную среду	
+    ```
+	# Переход в виртуальную среду
+	```
 	source myenv/bin/activate
-
+    ```
 	# Установка нужной библиотеки
+	```
 	pip install -r requirements.txt
-
+    ```
 	# Для выхода из виртуальной среды
+	```
 	deactivate
-
+    ```
+    
 2. Ошибка отсутствия pip на устройстве
+
 Если по какой-то причине у вас нет pip на устройстве, то вот пошаговая инструкция по подключению:
-https://losst.pro/ustanovka-pip-v-ubuntu
+
+`https://losst.pro/ustanovka-pip-v-ubuntu`
 
 3. Нет Python в VS code:
-https://selectel.ru/blog/tutorials/how-to-configure-visual-studio-code-for-python/
+
+`https://selectel.ru/blog/tutorials/how-to-configure-visual-studio-code-for-python/`
 
 4. Никогда не работал с linux и vs code
+
 Такое тоже может быть, поэтому специально на такой случай мы подготовили инструкцию по началу работы
 
 Если будут какие-то вопросы, которые не получается решить, всегда можно обратиться к эксперту
+
 Мы ценим ваше желание узнать как можно больше нового 
