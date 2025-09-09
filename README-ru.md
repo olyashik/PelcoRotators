@@ -17,9 +17,6 @@ tilt в терминах PELCO-D), большинство устройств PEL
 
 ![alt text](images/rotator_3050.png)
 
-[Aliexpress link](https://aliexpress.ru/item/1005008588968258.html)  
-[OZON link](https://www.ozon.ru/product/ulichnoe-povorotnoe-ustroystvo-dlya-kamer-videonablyudeniya-3050-dz-rs-485-q22580305-povorotnoe-1508008122/)  
-
 Для использования с антеннами в поворотном устройстве требуется сделать 2 модификации:
 1. Снять один из стопорных уголков вертикальной оси на основании устройства, чтобы дать ему возможность вращения на полные 360 градусов
 2. Повернуть оба стопорных уголка горизонтальной оси во "внешнюю" сторону, чтобы дать ему возможность вращения на полные 90 градусов
@@ -31,8 +28,8 @@ tilt в терминах PELCO-D), большинство устройств PEL
 Скачайте код
 
 ```
-git clone https://github.com/belovictor/pelco_d_rotator.git
-cd pelco_d_rotator
+git clone https://github.com/olyashik/PelcoRotators.git
+cd PelcoRotators
 ```
 
 

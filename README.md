@@ -18,9 +18,6 @@ I use this bridge with 3050(DZ) rotator through RS-485 connection
 
 ![alt text](images/rotator_3050.png)
 
-[Aliexpress link](https://aliexpress.ru/item/1005008588968258.html)  
-[OZON link](https://www.ozon.ru/product/ulichnoe-povorotnoe-ustroystvo-dlya-kamer-videonablyudeniya-3050-dz-rs-485-q22580305-povorotnoe-1508008122/)  
-
 I did two small modifications to it:
 1. Remove one of the two pan stop brackets to make it full 360 degrees on azimuth axis
 2. Make sure that both stop brackets on tilt axis are turned "outside" to make it full 90 degrees on elevation axis
@@ -32,8 +29,8 @@ This can be a simple and more or less cheap replacement for specialized antenna 
 Get the code
 
 ```
-git clone https://github.com/belovictor/pelco_d_rotator.git
-cd pelco_d_rotator
+git clone https://github.com/olyashik/PelcoRotators.git
+cd PelcoPotators
 ```
 
 
