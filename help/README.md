@@ -6,7 +6,7 @@
 2. Подключить через терминал к поворотному устройству:
    
 ```
-cd /pelco_d_rotator
+cd /PelcoRotators
 sudo python3 ./pelco_rotator.py -p /dev/ttyUSB0 -i 1
 ```
 *Вместо ttyUSB0 иожет быть ttyUSB1, определить порт вожно с помощью команды*
