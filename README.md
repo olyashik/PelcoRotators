@@ -58,7 +58,7 @@ options:
 Run the program (example)
 
 ```
-./pelco_rotator.py -p /dev/cu.usbserial-FT1GLXM1 -i 2
+sudo python3 ./pelco_rotator.py -p /dev/ttyUSB0 -i 1
 ```
 
 
